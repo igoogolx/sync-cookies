@@ -5,6 +5,9 @@
   "repository": "https://github.com/igoogolx/sync-cookies.git",
   "author": "igoogolx <27353191+igoogolx@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "webpack serve -c build/webpack.config.js --env NODE_ENV=development --mode development --hot --open"
+  },
   "devDependencies": {
     "css-loader": "^6.7.1",
     "postcss": "^8.4.17",
