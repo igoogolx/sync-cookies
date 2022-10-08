@@ -1,0 +1,8 @@
+{
+  "name": "sync-cookies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/igoogolx/sync-cookies.git",
+  "author": "igoogolx <27353191+igoogolx@users.noreply.github.com>",
+  "license": "MIT"
+}
