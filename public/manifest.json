@@ -1,0 +1,8 @@
+{
+  "name": "Sync Cookies",
+  "version": "1.0.0",
+  "description": "An extension used to sync cookies between different domains",
+  "permissions": ["storage", "tabs", "cookies"],
+  "host_permissions": ["https://*.example.com/*"],
+  "manifest_version": 3
+}
